@@ -19,9 +19,6 @@ Soy líder del equipo web en **Digiosoft Asesores**, una firma de desarrollo de 
 - **Correo Electrónico Personal :** [miguelmcfly42@gmail.com](mailto:miguelmcfly42@gmail.com)
 - **Correo Electrónico Digiosoft :** [miguel.acosta@digiosoft.com.mx](mailto:miguel.acosta@digiosoft.com.mx)
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=miguelmcfly&show_icons=true&theme=radical)
-
 ## 🌟 Proyectos en los que estoy trabajando
 - **[suiteCSS](https://github.com/Digiosoft-Asesores/suiteCSS.git)**: Un framework CSS propio diseñado para uso interno en Digiosoft Asesores.
 
