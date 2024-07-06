@@ -4,8 +4,10 @@
 Soy líder del equipo web en **Digiosoft Asesores**, una firma de desarrollo de software. Me apasiona crear soluciones tecnológicas que simplifiquen y mejoren los procesos empresariales. Tengo experiencia en desarrollo web, específicamente en PHP con CodeIgniter para el backend, y HTML, CSS, y JavaScript para el frontend. 
 
 ## 🚀 Proyectos Destacados
-- **[suiteCSS](https://github.com/tu-usuario/suiteCSS)**: Un framework CSS propio diseñado para uso interno en Digiosoft Asesores.
-- **[Nombre de Proyecto](https://github.com/tu-usuario/nombre-de-proyecto)**: Descripción breve del proyecto y tecnologías utilizadas.
+- **[suiteCSS](https://github.com/Digiosoft-Asesores/suiteCSS.git)**: Un framework CSS propio diseñado para uso interno en Digiosoft Asesores.
+- **[Acofii](https://acofii.ewmx.systems)**: Administrador y reporteador de CFDI SAT.
+- **[HPR](https://hpr.ewmx.systems)**: Administrador y reporteador especialista en nómina SAT.
+- **[Redoc](https://acofii.ewmx.systems)**: Analizador de documentos fiscales SAT (Contabilidad electrónica).
 
 ## 🛠️ Habilidades
 - **Lenguajes de Programación:** PHP, JavaScript, HTML, CSS
